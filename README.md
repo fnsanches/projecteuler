@@ -3,6 +3,10 @@
 ``` 
 https://projecteuler.net/about
 ```
+__Currently I'm following the freeCodeCamp Interview preparation Project Euler section at__
+```
+https://www.freecodecamp.org/learn/coding-interview-prep/#project-euler
+```
 
 ## What is Project Euler?
 
