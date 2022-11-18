@@ -8,6 +8,7 @@
 // What is the greatest product of four adjacent numbers in the same direction (up, down, left, right, or diagonally) in a given arr grid?
 
 // TODO: There is some magic numbers , will fix on the future.
+// TODO: Change the problem can work with whichever number of numbers included in product
 
 function largestGridProduct(arr) {
   let largestProd = 0;
