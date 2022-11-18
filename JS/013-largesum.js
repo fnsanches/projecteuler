@@ -8,8 +8,7 @@ function largeSum(arr) {
     }
     let tenDigits = sum.toString().slice(0, 10);
     return parseInt(tenDigits)
-
-  }  
+}  
 
 const testNums = [
     '37107287533902102798797998220837590246510135740250',
